@@ -54,7 +54,7 @@
     "babel-runtime": "^6.18.0",
     "imagemin": "^6.1.0",
     "imagemin-gifsicle": "^7.0.0",
-    "imagemin-jpegtran": "https://github.com/MasonTModea/imagemin-jpegtran.git#04872bd6c02344b20d793256980d1b71a2003a11",
+    "imagemin-jpegtran": "https://github.com/MasonTModea/imagemin-jpegtran.git#6c9fbbf5770d96a8efbba5b8a0e1d58883b6af59",
     "imagemin-optipng": "^8.0.0",
     "imagemin-pngquant": "8.0.0",
     "imagemin-svgo": "^7.0.0",

@@ -52,7 +52,7 @@
     "@types/webpack": "^4.4.24",
     "async-throttle": "^1.1.0",
     "babel-runtime": "^6.18.0",
-    "imagemin": "^9.0.0",
+    "imagemin": "7.0.1",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegtran": "https://github.com/MasonTModea/imagemin-jpegtran.git#9d707773bacd6c16f1e25423107331304e8000a9",
     "imagemin-optipng": "^8.0.0",
